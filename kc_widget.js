@@ -1,6 +1,4 @@
-<link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet" type="text/css">
-<script src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js" type="text/javascript"></script>
-<script>
+
 let isDashboard = false; // Flag to check if the event has been triggered
 
 // Function to check the content of the specified element
@@ -116,6 +114,3 @@ if (cardGroupDiv) {
   }, 50000); // 50,000 milliseconds = 50 seconds
 }
 
-
-
-</script>
